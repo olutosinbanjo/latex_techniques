@@ -1,6 +1,4 @@
-<pre> ```latex 
-
-\documentclass[a4paper, 12pt, twoside]{book}
+<pre> ```latex \documentclass[a4paper, 12pt, twoside]{book}
 \usepackage[demo]{graphicx}
 \usepackage{array}
 
@@ -43,6 +41,4 @@
 
 \end{titlepage}
 %\maketitle
-\end{document}
-
-</prep>
+\end{document} </prep>
