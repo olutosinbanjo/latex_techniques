@@ -43,3 +43,6 @@
 \end{titlepage}
 %\maketitle
 \end{document} </prep>
+
+
+Reference: https://tex.stackexchange.com/questions/402219/avoid-long-title-overlapping-in-title-page
