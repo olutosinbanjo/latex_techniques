@@ -1,4 +1,4 @@
-<pre> ```
+<pre>
 \documentclass[a4paper, 12pt, twoside]{book}
 \usepackage[demo]{graphicx}
 \usepackage{array}
